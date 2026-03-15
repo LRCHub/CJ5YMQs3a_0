@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Atlanticus",
+  "base_artist": "エルセとさめのぽき",
+  "createdAt": "2026-03-15T14:41:05.279346Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Atlanticus",
+      "artist": "エルセとさめのぽき",
+      "has_synced": false,
+      "path": "select/pl_01_Atlanticus_エルセとさめのぽき.txt"
+    }
+  ]
+}
